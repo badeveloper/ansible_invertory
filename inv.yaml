@@ -1,0 +1,11 @@
+---
+vcenters:
+       vc_1:
+         host: VCENTER_ADDRESS
+         user: USERNAME
+         password: PASSWORD
+
+       vc_2:
+         host: VCENTER_ADDRESS
+         user: USER
+         password: PASSWORD
